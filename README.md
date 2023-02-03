@@ -5,7 +5,7 @@ per gallon, gas consumption and expenditure over time.
 
 ## Description of files
 **Gas Data 2016-2023.pdf** includes code, plots, and the summary of the results.
-Rmd contains code performed on the data.
+**Rmd** contains code performed on the data.
 
 ## Contributor
 Yulia Tyukhova
